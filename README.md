@@ -1,2 +1,2 @@
 # Qualify
-Face recognition system for checking coming and leaving times of employees
+Employees' arrival and departure hours are checked using a face recognition technology.
